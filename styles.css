@@ -1,0 +1,21 @@
+.bolas{
+    list-style: lower-greek
+
+}
+.bolitas{
+
+    list-style-type: georgian;
+}
+.cuadrados{
+    list-style-type: square;
+}
+h1,h2 {
+    color:rgb(81, 14, 237)
+}
+* {
+    background-color: rgb(29, 207, 121);
+}
+h1 {
+    text-align: center;
+
+}
